@@ -1,2 +1,13 @@
 # Lad0A
- 
+
+// ชื่อกฤตชวกร ชวลิตกิตติวงศ์
+
+Console.WriteLine("ชื่อ นาย กฤตชวกร ชวลิตกิตติวงศ์");
+
+// id
+
+Console.WriteLine("653450279-6");
+
+// e-mail
+
+Console.WriteLine("kitchawakon.c@kkumail.com");
